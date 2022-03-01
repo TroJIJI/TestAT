@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestImage</string>
+    <string name="user_info">User Info:</string>
+    <string name="first_name">First name:</string>
+    <string name="second_name">Second name:</string>
+    <string name="education">Education:</string>
+    <string name="company">Company:</string>
+    <string name="position">Position:</string>
+    <string name="next">Далее</string>
+    <string name="company_name">Company name:</string>
+</resources>
